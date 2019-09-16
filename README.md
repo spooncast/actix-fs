@@ -1,2 +1,3 @@
-# actix-fs
-Filesystem API for Actix
+# Actix FS
+
+Asynchronous filesystem manipulation operations.

@@ -1,0 +1,14 @@
+[package]
+name = "actix-fs"
+version = "0.1.0"
+license = "MPL-2.0"
+readme = "README.md"
+authors = ["Ian Jun <ian@mykoon.com>"]
+description = """
+Filesystem API for Actix.
+"""
+keywords = ["actix", "futures", "fs", "file", "async"]
+categories = ["asynchronous", "filesystem"]
+edition = "2018"
+
+[dependencies]
