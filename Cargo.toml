@@ -12,3 +12,9 @@ categories = ["asynchronous", "filesystem"]
 edition = "2018"
 
 [dependencies]
+futures = "0.1.25"
+actix-threadpool = "0.1.1"
+
+[dev-dependencies]
+actix-rt = "0.2.2"
+tempfile = ">=3.0.5, <3.1"
